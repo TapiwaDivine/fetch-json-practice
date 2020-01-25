@@ -1,1 +1,225 @@
+{
+  "legends": [
+      {
+          "firstName": "Ashley",
+          "lastName": "Cole",
+          "email": "acole@test.com",
+          "country": "England",
+          "availableDates": [
+              "2020-05-26",
+              "2020205-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-06-03",
+              "2020-06-04"
+          ]
+      },
+      {
+          "firstName": "Didier",
+          "lastName": "Drogba",
+          "email": "ddrogba11@chelsea.com",
+          "country": "Ivory Coast",
+          "availableDates": [
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-05-30",
+              "2020-06-01",
+              "2020-06-02",
+              "2020-06-03",
+              "2020-06-07",
+              "2020-06-08"
+          ]
+      },
+      {
+          "firstName": "Joe",
+          "lastName": "Cole",
+          "email": "jcole10@cfclegends.com",
+          "country": "England",
+          "availableDates": [
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-06-03",
+              "2020-06-04"
+          ]
+      },
+      {
+          "firstName": "Damian",
+          "lastName": "Duff",
+          "email": "duffy11@cfclegend.com",
+          "country": "Ireland",
+          "availableDates": [
+              "2020-05-22",
+              "2020-05-23",
+              "2020-05-25",
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-05-31",
+              "2020-06-03",
+              "2020-06-04",
+              "2020-06-07"
+          ]
+      },
+      {
+          "firstName": "Micheal",
+          "lastName": "Ballack",
+          "email": "theKaiser@cfclegends.com",
+          "country": "Germany",
+          "availableDates": [
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-06-03"
+          ]
+      },
+      {
+          "firstName": "Branslav",
+          "lastName": "Ivanovic",
+          "email": "branaIva@cfclegends.com",
+          "country": "Serbia",
+          "availableDates": [
+              "2020-05-25",
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-06-01",
+              "2020-06-05",
+              "2020-06-06",
+              "2020-06-07",
+              "2020-06-10",
+              "2020-06-15"
+          ]
+      },
+      {
+          "firstName": "Micheal",
+          "lastName": "Essien",
+          "email": "messien@cfclegends.com",
+          "country": "Ghana",
+          "availableDates": [
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-05-30",
+              "2020-05-31",
+              "2020-06-07"
+          ]
+      },
+      {
+          "firstName": "John",
+          "lastName": "Terry",
+          "email": "johnterry26@cfclegends.com",
+          "country": "England",
+          "availableDates": [
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-05-30",
+              "2020-06-03",
+              "2020-06-06",
+              "2020-06-08"
+          ]
+      },
+      {
+          "firstName": "Petr",
+          "lastName": "Cech",
+          "email": "pcech@cfclegends.com",
+          "country": "Czech Republic",
+          "availableDates": [
+              "2020-05-25",
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-06-06",
+              "2020-06-07"
+          ]
+      },
+      {
+          "firstName": "Florent",
+          "lastName": "Malouda",
+          "email": "fmalouda@cfclegends.com",
+          "country": "France",
+          "availableDates": [
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-06-12",
+              "2020-06-13"
+          ]
+      },
+      {
+          "firstName": "Nicolas",
+          "lastName": "Anelka",
+          "email": "nanelka@cfclegends.com",
+          "country": "France",
+          "availableDates": [
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-05-31"
+          ]
+      },
+      {
+          "firstName": "Eden",
+          "lastName": "Hazard",
+          "email": "ehazard@cfclegends.com",
+          "country": "Belgium",
+          "availableDates": [
+              "2020-05-22",
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-05-31",
+              "2020-06-02",
+              "2020-06-03",
+              "2020-06-07"
+          ]
+      },
+      {
+          "firstName": "Frank",
+          "lastName": "Lampard",
+          "email": "superfrank@chelsea.com",
+          "country": "England",
+          "availableDates": [
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-06-02",
+              "2020-06-03",
+              "2020-06-04",
+              "2020-06-15"
+          ]
+      },
+      {
+          "firstName": "John Obi",
+          "lastName": "Mikel",
+          "email": "jomikel@cfclegends.com",
+          "country": "United States",
+          "availableDates": [
+              "2020-05-26",
+              "2020-05-27",
+              "2020-05-28",
+              "2020-05-29",
+              "2020-06-02",
+              "2020-06-04",
+              "2020-06-06",
+              "2020-06-07",
+              "2020-06-09"
+          ]
+      },
+  ]
+}
 
